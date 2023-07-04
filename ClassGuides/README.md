@@ -1,6 +1,6 @@
 # Class Guide System
 This is part of the class guide system that the mod uses; the functionality is the same at least. <br>
-Please note that this command is still being worked on! (class descriptions aren't finished)
+Please note that this system is still being worked on! (class descriptions aren't finished)
 
 # How to use
 
