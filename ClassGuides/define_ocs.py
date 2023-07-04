@@ -4,7 +4,7 @@ Define_ClassGuide("GravitySniperClass", "GravitySniper", "temp description",
     "Gravitor Bullet\nRelease mainfire to make the bullet lose gravity.",
     "Grenade\nThrow an explosive grenade.\nYou get a vertical boost and wall jump if it explodes near you.\nDuring said boost, you can rapid-fire grenades.",
     "", True,
-    "Punch\nA basic short-ranged punch.",
+    "Punch\nA basic short-ranged punch that can block projectiles.\nBlocking projectiles gives 2 mainfire ammo, and hitting opponents gives 1 mainfire ammo.",
     "", "", 1, 0
 );
 
