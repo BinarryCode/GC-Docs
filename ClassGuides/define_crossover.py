@@ -1,5 +1,4 @@
 from ClassDefFunc import Define_ClassGuide, class_guides
-# name, desc, main, alt, item, reloadBool, user1, user2, passive, wallJumps, airJumps
 
 # DOOM
 Define_ClassGuide("BaronOfHellClass", "Baron Of Hell", "temp description",
